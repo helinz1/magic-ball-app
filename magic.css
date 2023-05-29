@@ -1,51 +1,47 @@
- html,body{
-    background-color: darkgoldenrod;
+ html,
+ body {
+     background-color: darkgoldenrod;
  }
-.tittle{
-    color:#FAFAFA;
-    font-size: 40px;
-    font-family:ui-serif;
-    text-align: center;
-    margin: auto;
-    width: auto;
-    
-}
-.btn{
-    margin: auto;
-    cursor: pointer;
-    border-radius: 10rem;
-    display: flex;
-    position: center;
-    font-size: 40px;
-    box-sizing: border-box;
-}
-    
-.box{
-    
-    height: 90vh;
-    padding: 20px;
-    margin: 2px;
-    border: 6px solid black;
-    
-} 
-.img{
-    width: 400px;
-    height: 300px;
-    margin: auto;
-    display: block;
- 
-    
-}
 
- 
-.question{
-    text-align: center;
-    margin: 1rem;
+ .title {
+     color: #FAFAFA;
+     font-size: 40px;
+     font-family: ui-serif;
+     text-align: center;
+     margin: auto;
+     width: auto;
+ }
 
+ .btn {
+     margin: auto;
+     cursor: pointer;
+     border-radius: 10rem;
+     display: flex;
+     position: center;
+     font-size: 40px;
+     box-sizing: border-box;
+ }
 
-}
+ .box {
+     height: 90vh;
+     padding: 20px;
+     margin: 2px;
+     border: 6px solid black;
+ }
 
-.question input{
-    font-size: 15px;
-    height: 30px;
-}
+ img {
+     width: 400px;
+     height: 300px;
+     margin: auto;
+     display: block;
+ }
+
+ .question {
+     text-align: center;
+     margin: 1rem;
+ }
+
+ .question input {
+     font-size: 15px;
+     height: 30px;
+ }
