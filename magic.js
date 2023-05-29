@@ -1,8 +1,8 @@
 const phraseElement = document.getElementById('phrase');
 
 // Array of phrases
-const phrases = 
-   [ 
+const phrases =
+   [
       "Yes",
       "No",
       "I don't think so",
@@ -10,7 +10,6 @@ const phrases =
       "You should ",
       "You shouldn't"
    ];
-   style.textAlign = "center";
 
 // Function to be called on button click
 function getPhrase() {
